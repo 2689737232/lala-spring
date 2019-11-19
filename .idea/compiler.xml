@@ -8,7 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ADServer" />
         <module name="EurekaServer" />
+        <module name="lala" />
         <module name="NewsServer" />
+        <module name="UserServer" />
+        <module name="Zuul" />
       </profile>
     </annotationProcessing>
   </component>
